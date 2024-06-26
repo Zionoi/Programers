@@ -20,7 +20,7 @@ class Solution {
         return answer;
     }
     public static boolean f(int i){
-    if(i==0) return true;
+//    if(i==0) return true;
     
     while(i>0){
         int five = i%10;
